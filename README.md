@@ -18,4 +18,4 @@ In the preceeding of AAAI 2016, link: <http://www.cs.sjtu.edu.cn/~kzhu/papers/kz
 The talk about this project in “Frontiers in Knowledge Graphs 2015” is at <http://pangolulu.github.io/2016/01/09/action/>. You can rely on this slide to know more about our ideas and approaches.
 
 ## Demo
-A website demo of our project is at <http://202.120.38.146/~gongyu/action/>, where can browse the verbs' argument concepts in the browser.
+A website demo of our project is at <http://adapt.seiee.sjtu.edu.cn/~gongyu/action>, where can browse the verbs' argument concepts in the browser.
