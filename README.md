@@ -14,6 +14,15 @@ Verbs play an important role in the understanding of natural language text. This
 ## Publication
 In the preceeding of AAAI 2016, link: <http://www.cs.sjtu.edu.cn/~kzhu/papers/kzhu-action.pdf>
 
+## Citation
+```
+@inproceedings{gong2016representing,
+  title={Representing Verbs as Argument Concepts},
+  author={Gong, Yu and Zhao, Kaiqi and Zhu, Kenny Qili},
+  year={2016}
+}
+```
+
 ## Slide
 The talk about this project in “Frontiers in Knowledge Graphs 2015” is at <http://pangolulu.github.io/2016/01/09/action/>. You can rely on this slide to know more about our ideas and approaches.
 
