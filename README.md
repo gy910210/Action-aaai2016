@@ -25,7 +25,7 @@ In the preceeding of AAAI 2016, link: <http://www.cs.sjtu.edu.cn/~kzhu/papers/kz
 ```
 
 ## Slide
-The talk about this project in “Frontiers in Knowledge Graphs 2015” is at <http://pangolulu.github.io/2016/01/09/action/>. You can rely on this slide to know more about our ideas and approaches.
+The talk about this project in “Frontiers in Knowledge Graphs 2015” is at <http://kw.fudan.edu.cn/resources/ppt/8-%E6%9C%B1%E5%85%B6%E7%AB%8B-Representing%20Verbs%20as%20Argument%20Concepts.pdf>. You can rely on this slide to know more about our ideas and approaches.
 
 ## Demo
 A website demo of our project is at <http://adapt.seiee.sjtu.edu.cn/~gongyu/action>, where can browse the verbs' argument concepts in the browser.
