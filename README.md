@@ -17,8 +17,9 @@ In the preceeding of AAAI 2016, link: <http://www.cs.sjtu.edu.cn/~kzhu/papers/kz
 ## Citation
 ```
 @inproceedings{gong2016representing,
-  title={Representing Verbs as Argument Concepts},
+  title={Representing verbs as argument concepts},
   author={Gong, Yu and Zhao, Kaiqi and Zhu, Kenny Qili},
+  booktitle={Thirtieth AAAI Conference on Artificial Intelligence},
   year={2016}
 }
 ```
